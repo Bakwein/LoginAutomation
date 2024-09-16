@@ -1,3 +1,6 @@
+xxx -> özel bilgiler push için saklanmıştır
+
+
 !!! calistir.sh calistirmak için 
 MAC-> bash calistir.sh,
 windows -> calistir.bat 
